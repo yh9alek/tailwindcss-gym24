@@ -11,17 +11,16 @@
     .wrapper-1000 {
         @apply overflow-hidden w-full mx-auto max-w-[936px]
     }
-    .wrapper-744 {
+    .wrapper-800 {
         @apply overflow-hidden w-full mx-auto max-w-[584px]
     }
-    .wrapper-393 {
+    .wrapper-400 {
         @apply overflow-hidden w-full mx-auto max-w-[280px]
     }
 
     .clip-circle-0 {
         clip-path: circle(0% at top right);
     }
-
     .clip-circle-full {
         clip-path: circle(150% at top right);
     }
