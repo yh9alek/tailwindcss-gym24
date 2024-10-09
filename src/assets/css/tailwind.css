@@ -1,3 +1,28 @@
+@import url('./fonts.css');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+    .wrapper-1600 {
+        @apply overflow-hidden w-full mx-auto max-w-[1160px]
+    }
+    .wrapper-1000 {
+        @apply overflow-hidden w-full mx-auto max-w-[936px]
+    }
+    .wrapper-744 {
+        @apply overflow-hidden w-full mx-auto max-w-[584px]
+    }
+    .wrapper-393 {
+        @apply overflow-hidden w-full mx-auto max-w-[280px]
+    }
+
+    .clip-circle-0 {
+        clip-path: circle(0% at top right);
+    }
+
+    .clip-circle-full {
+        clip-path: circle(150% at top right);
+    }
+}

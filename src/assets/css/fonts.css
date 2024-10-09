@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Made Outer Sans Bold';
+    src: url('../fonts/made-outer-sans-b.otf');
+}
+
+@font-face {
+    font-family: 'Made Outer Sans Light';
+    src: url('../fonts/made-outer-sans-l.otf');
+}
+
+@font-face {
+    font-family: 'Made Outer Sans Thin';
+    src: url('../fonts/made-outer-sans-t.otf');
+}
