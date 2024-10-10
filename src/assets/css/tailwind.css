@@ -29,3 +29,7 @@
 #membership .slick-track {
     @apply h-[396px]
 }
+
+#trainers .slick-track {
+    @apply h-[465px]
+}

@@ -14,4 +14,11 @@ $(document).ready(function(){
         slidesToScroll: 1,
     });
 
+    $('.trainers-slider').slick({
+        infinite: true,
+        centerMode: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+    });
+
 });
