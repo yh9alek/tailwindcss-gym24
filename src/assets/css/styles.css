@@ -655,6 +655,18 @@ video {
   margin-top: 60px;
 }
 
+.mb-\[45px\] {
+  margin-bottom: 45px;
+}
+
+.mb-\[40px\] {
+  margin-bottom: 40px;
+}
+
+.mb-\[38px\] {
+  margin-bottom: 38px;
+}
+
 .block {
   display: block;
 }
@@ -704,6 +716,10 @@ video {
   height: max-content;
 }
 
+.h-\[211\] {
+  height: 211;
+}
+
 .w-\[107px\] {
   width: 107px;
 }
@@ -734,6 +750,10 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-\[279px\] {
+  width: 279px;
 }
 
 .auto-rows-max {
@@ -794,6 +814,10 @@ video {
 
 .gap-\[30px\] {
   gap: 30px;
+}
+
+.overflow-hidden {
+  overflow: hidden;
 }
 
 .scroll-smooth {
