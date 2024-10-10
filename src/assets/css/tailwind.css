@@ -25,3 +25,7 @@
         clip-path: circle(150% at top right);
     }
 }
+
+#membership .slick-track {
+    @apply h-[396px]
+}
